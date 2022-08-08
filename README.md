@@ -1,5 +1,18 @@
+## Informacion:
+
+    ENTIDAD: Centro de Biotecnologia Agropecuraria
+    FICHA: 2558346
+    PROGRAMA: Analisis y desarrollo de Software - ADSO
+    AUTOR: Juan Sebastian Vidales
+    FECHA CREACION: 30/07/2022
+    VERSION: 3.0.0
+    Fecha de modificacion: 5/08/2022 Juan Sebastian Vidales
+    
+    En este repositorio se encontrarn 15 ejercicios de HTML, se divide por versiones, cada carpeta es una version 
+etiquetas usadas a medida que se ha ido actualizando
+
 ###### VERSIÓN 1.0.0
-`Todo el archivo esta en la version de HTMLX`
+- `Todo el archivo esta en la version de HTMLX`
 
 
 ###### VERSIÓN 2.0.0

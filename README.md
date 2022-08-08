@@ -8,7 +8,8 @@
     VERSION: 3.0.0
     Fecha de modificacion: 5/08/2022 Juan Sebastian Vidales
     
-    En este repositorio se encontrarn 15 ejercicios de HTML, se divide por versiones, cada carpeta es una version etiquetas usadas a medida que se ha ido actualizando
+    En este repositorio se encontrarn 15 ejercicios de HTML, se divide por versiones, 
+    cada carpeta es una version etiquetas usadas a medida que se ha ido actualizando
 
 ###### VERSIÓN 1.0.0
 - `Todo el archivo esta en la version de HTMLX`

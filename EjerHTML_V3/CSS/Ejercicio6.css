@@ -1,0 +1,18 @@
+#container{
+    background-color: #17DAE6;
+    width: 1024px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    color: #D95700;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:#D95700 ;
+}

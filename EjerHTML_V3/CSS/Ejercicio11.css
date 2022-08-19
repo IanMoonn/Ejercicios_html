@@ -1,0 +1,23 @@
+#container{
+    background-color: #997C15;
+    width: 500px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: #54BEEB;
+    text-align: center;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: #54BEEB;
+}
+
+#jpg{
+    width: 150px;
+    height: 100px;
+}

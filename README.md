@@ -37,3 +37,8 @@
 -  `Las maquetas llevan un encabezado, un menu principal, un cuerpo, y un pie de pagina`
 -  `Cada maqueta incluye un estilo de letra y color designado`
 -  `Los ejercicios incluyen su numero de ejercicio, el codigo de ficha, el copyright y el logo de la W3C`
+
+###### MAQUETAS
+-  `Se crearon 4 maquetas con diferentes objetos`
+-  `Las maquetas llevan un encabezado, un menu principal, un cuerpo, y un pie de pagina`
+-  `Las maquetas tienen diversos colores y estilo de letra`

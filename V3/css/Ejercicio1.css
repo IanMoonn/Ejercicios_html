@@ -1,0 +1,12 @@
+#container{
+    background-color:#F0DF05;
+    width: 1024px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color:#3202A3 ;
+}

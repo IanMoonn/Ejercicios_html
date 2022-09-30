@@ -1,0 +1,17 @@
+#container{
+    background-color:#c55500;
+    width: 1024px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+font-family: 'Courier New', Courier, monospace;    
+color: #0093A3;
+font-size: 55px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #1FE9FF;
+    font-size: 20px;
+}
